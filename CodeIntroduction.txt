@@ -1,0 +1,1 @@
+1、开始的Activity的入口是StartActivity，默认返回的Activity为MainActivity。

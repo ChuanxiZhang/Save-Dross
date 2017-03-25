@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 自动生成 -->
+    <string name="app_name">拯救学渣PRO1.0</string>
+    <string name="action_settings">Settings</string>
+    <!-- 非文本性描述 -->
+    <string name="start_descirption">开场动画</string>
+    <!-- 文本性描述 -->
+    <string name="main_about">关于</string>
+    <string name="introduction_1">学渣！学渣！快点觉醒起来吧！让我来拯救你！打开开始拯救模式，你会看到大学数学考试中最常见的考试重点和考试题型！只要突击搞会他们，你就能及格了，心动不如行动！还不快来做题！</string>
+    <string name="introduction_2">精益求精！搞会了所有的重点感觉上还是不踏实？没为题！这里囊括了大学数学考试中最高频的题型和真题，在拯救的基础上，让你完成彻底的救赎！</string>
+    <string name="introduction_3">软件架构规划：北京林业大学“想会”项目小组——张传玺、张铭庆、朱琳、杨昭颖 北京林业大学E开发工作室——张传玺、谢天凯\n软件开发：北京林业大学E开发工作室——张传玺、谢天凯\n资料提供：北京林业大学拯救学渣项目组——张传玺、谢天凯、朱琳、杨昭颖、张铭庆、张小芳、李天玉、尚迪、毛碧黔 \n软件营销：北京林业大学拯救学渣项目组——张小芳、李天玉、尚迪、毛碧黔</string>
+	<string name="content_text">\t拯救学渣PRO1.0</string>
+	<string name="option_music">音乐：</string>
+</resources>
